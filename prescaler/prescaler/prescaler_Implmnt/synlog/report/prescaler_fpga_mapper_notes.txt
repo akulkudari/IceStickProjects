@@ -1,0 +1,10 @@
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+@N: MT206 |Auto Constrain mode is enabled
+@N: MO231 :"c:\users\akulk\downloads\fpga personal projects\icestickprojects\prescaler\prescaler.v":15:0:15:5|Found counter in view:work.prescaler(verilog) instance count[21:0] 
+@N: FX1016 :"c:\users\akulk\downloads\fpga personal projects\icestickprojects\prescaler\prescaler.v":1:23:1:28|SB_GB_IO inserted on the port clk_in.
+@N: BW103 |The default time unit for the Synopsys Constraint File (SDC or FDC) is 1ns.
+@N: BW107 |Synopsys Constraint File capacitance units using default value of 1pF 
+@N: FX1056 |Writing EDF file: C:\Users\akulk\Downloads\FPGA Personal Projects\IceStickProjects\prescaler\prescaler\prescaler_Implmnt\prescaler.edf
+@N: MT320 |This timing report is an estimate of place and route data. For final timing results, use the FPGA vendor place and route report.
+@N: MT322 |Clock constraints include only register-to-register paths associated with each individual clock.

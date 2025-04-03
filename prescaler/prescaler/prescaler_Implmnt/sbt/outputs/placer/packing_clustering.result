@@ -1,0 +1,25 @@
+ble_pack count[0]_LC_0 {count[0], count_cry_c[0], count_RNO[0]}
+ble_pack count[1]_LC_1 {count[1], count_cry_c[1], count_RNO[1]}
+ble_pack count[2]_LC_12 {count[2], count_cry_c[2], count_RNO[2]}
+ble_pack count[3]_LC_15 {count[3], count_cry_c[3], count_RNO[3]}
+ble_pack count[4]_LC_16 {count[4], count_cry_c[4], count_RNO[4]}
+ble_pack count[5]_LC_17 {count[5], count_cry_c[5], count_RNO[5]}
+ble_pack count[6]_LC_18 {count[6], count_cry_c[6], count_RNO[6]}
+ble_pack count[7]_LC_19 {count[7], count_cry_c[7], count_RNO[7]}
+clb_pack PLB_0 {count[0]_LC_0, count[1]_LC_1, count[2]_LC_12, count[3]_LC_15, count[4]_LC_16, count[5]_LC_17, count[6]_LC_18, count[7]_LC_19}
+ble_pack count[8]_LC_20 {count[8], count_cry_c[8], count_RNO[8]}
+ble_pack count[9]_LC_21 {count[9], count_cry_c[9], count_RNO[9]}
+ble_pack count[10]_LC_2 {count[10], count_cry_c[10], count_RNO[10]}
+ble_pack count[11]_LC_3 {count[11], count_cry_c[11], count_RNO[11]}
+ble_pack count[12]_LC_4 {count[12], count_cry_c[12], count_RNO[12]}
+ble_pack count[13]_LC_5 {count[13], count_cry_c[13], count_RNO[13]}
+ble_pack count[14]_LC_6 {count[14], count_cry_c[14], count_RNO[14]}
+ble_pack count[15]_LC_7 {count[15], count_cry_c[15], count_RNO[15]}
+clb_pack PLB_1 {count[8]_LC_20, count[9]_LC_21, count[10]_LC_2, count[11]_LC_3, count[12]_LC_4, count[13]_LC_5, count[14]_LC_6, count[15]_LC_7}
+ble_pack count[16]_LC_8 {count[16], count_cry_c[16], count_RNO[16]}
+ble_pack count[17]_LC_9 {count[17], count_cry_c[17], count_RNO[17]}
+ble_pack count[18]_LC_10 {count[18], count_cry_c[18], count_RNO[18]}
+ble_pack count[19]_LC_11 {count[19], count_cry_c[19], count_RNO[19]}
+ble_pack count[20]_LC_13 {count[20], count_cry_c[20], count_RNO[20]}
+ble_pack count[21]_LC_14 {count[21], count_RNO[21]}
+clb_pack PLB_2 {count[16]_LC_8, count[17]_LC_9, count[18]_LC_10, count[19]_LC_11, count[20]_LC_13, count[21]_LC_14}

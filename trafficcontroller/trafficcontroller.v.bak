@@ -1,0 +1,16 @@
+module trafficcontroller(
+    input reset, clk_in, ess, wss, els, wls, nss, nls, sls, sss,
+    output esl, wsl, ell, wll, nsl, nll, ssl, sll
+);
+always_ff @(posedge clk)
+    if(reset) begin
+	  present_state <= GRR;
+      ctr5          <= 0;
+      ctr10         <= 0;
+    end  
+	else begin
+	  present_state <= next_state;
+      ctr5          <= next_ctr5;
+      ctr10         <= next_ctr10;
+    end  
+endmodule

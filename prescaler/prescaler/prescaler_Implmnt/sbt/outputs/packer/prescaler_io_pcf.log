@@ -1,0 +1,2 @@
+OUTPUT clk_out 	 location (0, 12, 1) 	 7 	 
+INPUT  clk_in 	 location (0, 8, 1) 	 21 	 

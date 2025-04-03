@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      akulk
+HostName                       akulk
+ProcessIdentifier              31068
+ProcessCreationTime_UTC        0
+ProcessCreationTime_Readable   12/31/69 16:00:00 Pacific Standard Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\akulk\Downloads\FPGA Personal Projects\IceStickProjects\prescaler\prescaler\prescaler_Implmnt\sbt\netlist\oadb-prescaler\BFPGA_DESIGN_pl\prescaler\%I%N%T%E%R%F%A%C%E\netlist.oa.cdslck
+TimeEditLocked                 04/03/25 14:30:50 Pacific Daylight Time

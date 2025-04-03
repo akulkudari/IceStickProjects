@@ -1,0 +1,35 @@
+#### START OF AREA REPORT #####[
+
+Part:			ICE40HX1KTQ144 (Lattice)
+
+-------------------------------------------------------------------------
+########   Utilization report for  Top level view:   prescaler   ########
+=========================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     22                 100 %                
+==================================================
+Total SEQUENTIAL ELEMENTS in the block prescaler:	22 (31.88 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       22                 100 %                
+CARRYS     21                 100 %                
+===================================================
+Total COMBINATIONAL LOGIC in the block prescaler:	43 (62.32 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     2                  100 %                
+=================================================
+Total IO PADS in the block prescaler:	2 (2.90 % Utilization)
+
+
+##### END OF AREA REPORT #####]
+

@@ -1,0 +1,12 @@
+@P:  Worst Slack : -1.012
+@P:  prescaler|clk_in - Estimated Frequency : 148.2 MHz
+@P:  prescaler|clk_in - Requested Frequency : 174.3 MHz
+@P:  prescaler|clk_in - Estimated Period : 6.749
+@P:  prescaler|clk_in - Requested Period : 5.737
+@P:  prescaler|clk_in - Slack : -1.012
+@P: prescaler Part : ice40hx1ktq144
+@P: prescaler I/O primitives : 2
+@P: prescaler I/O Register bits : 0
+@P: prescaler Register bits (Non I/O) : 22 (1%)
+@P: prescaler Total Luts : 22 (1%)
+@P:  CPU Time : 0h:00m:00s

@@ -1,0 +1,79 @@
+* ******************************************************************************
+
+* iCEcube Report
+
+* Version:            2020.12.27943
+
+* Build Date:         Dec  9 2020 17:31:51
+
+* File Generated:     Apr 3 2025 14:28:25
+
+* Purpose:            General info of design implementation
+
+* Copyright (C) 2006-2010 by Lattice Semiconductor Corp. All rights reserved.
+
+* ******************************************************************************
+
+Synthesis/Placement Summary:
+----------------------------
+    Status:  Successful
+    Runtime: 0 seconds
+
+Device Info:
+------------
+    Device Family: iCE40
+    Device:        iCE40HX1K
+    Package:       TQ144
+
+Design statistics:
+------------------
+    FFs:                  22
+    LUTs:                 22
+    RAMs:                 0
+    IOBs:                 2
+    GBs:                  1
+    PLLs:                 0
+    Warm Boots:           0
+
+Logic Resource Utilization:
+---------------------------
+    Total Logic Cells: 22/1280
+        Combinational Logic Cells: 0        out of   1280      0%
+        Sequential Logic Cells:    22       out of   1280      1.71875%
+        Logic Tiles:               3        out of   160       1.875%
+    Registers: 
+        Logic Registers:           22       out of   1280      1.71875%
+        IO Registers:              0        out of   560       0
+    Block RAMs:                    0        out of   16        0%
+    Warm Boots:                    0        out of   1         0%
+    Pins:
+        Input Pins:                1        out of   96        1.04167%
+        Output Pins:               1        out of   96        1.04167%
+        InOut Pins:                0        out of   96        0%
+    Global Buffers:                1        out of   8         12.5%
+    PLLs:                          0        out of   1         0%
+
+IO Bank Utilization:
+--------------------
+    Bank 3: 2        out of   24        8.33333%
+    Bank 1: 0        out of   25        0%
+    Bank 0: 0        out of   23        0%
+    Bank 2: 0        out of   24        0%
+
+Detailed I/O Info:
+------------------
+    Input Pins: 
+    Pin Number  Direction  IO Standard  Pull Up  IO Bank  IO Function    Signal Name
+    ----------  ---------  -----------  -------  -------  -----------    -----------
+    21          Input      SB_LVCMOS    No       3        Simple Input   clk_in   
+
+    Output Pins: 
+    Pin Number  Direction  IO Standard  Pull Up  IO Bank  IO Function    Signal Name
+    ----------  ---------  -----------  -------  -------  -----------    -----------
+    7           Output     SB_LVCMOS    No       3        Simple Output  clk_out  
+
+Detailed Global Buffer Info:
+----------------------------
+    Buffer Number  IO Bank  Driven By  Fanout  Signal Name 
+    -------------  -------  ---------  ------  ----------- 
+    1              3        IO         22      clk_in_c_g  
