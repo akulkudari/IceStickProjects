@@ -1,0 +1,1 @@
+Prescaler implemented in SystemVerilog. Use the pcf file attached for the constraint editor file.
